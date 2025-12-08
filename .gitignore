@@ -1,0 +1,3 @@
+# Downloaded K8s manifests should not be version controlled
+kube/
+
