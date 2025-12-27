@@ -7,7 +7,7 @@ This script automates the process of setting up an **ngIRCd** server deployment 
 ### Prerequisites
 
 * **Python 3**
-* **kubectl** command-line tool installed and configured to connect to your Kubernetes cluster.
+* **kubectl** command-line [tool](https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/) installed and configured to connect to your Kubernetes cluster.
 * **Required Python Libraries:**
     * `yaspin`
     * `fsspec`
